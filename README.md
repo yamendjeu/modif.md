@@ -3,10 +3,15 @@ Bonjour et bienvenue sur mon site. Ici je vous donnerais la structure de mon sit
 #Description
 
 **ALPHA CLASSE** sera diviser en 5 menu notamment:
+
 1. Accueil 1
+
 2. à propos de nous 2
+
 3. Offres des cours 3
+
 4. Contact 4
+
 5. Conseil et Orientation 5
 
 ##Accueil
